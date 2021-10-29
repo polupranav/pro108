@@ -1,0 +1,10 @@
+body {
+    font-size: 25px;
+    font-family: 'Rajdhani', sans-serif;
+    background-color: rgb(168, 50, 50);
+}
+
+#button1 {
+    color: rgb(234, 238, 10);
+    font-size: 20px;
+}
